@@ -16,7 +16,7 @@ Check out routes in real time for MBTA Transit
 
 # Take a Look!
 
-My website is hosted on Github Pages: [MBTA Departure Board](https://rcolon100.github.io/mbta/) 
+My website is hosted on Github Pages: [MBTA Departure Board](https://rcolon100.github.io/mbta_departure_board/) 
 
 ## Contributors
 
