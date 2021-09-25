@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mbta_departure_board/static/css/main.e1ff73a1.chunk.css",
+    "main.js": "/mbta_departure_board/static/js/main.2689961f.chunk.js",
+    "main.js.map": "/mbta_departure_board/static/js/main.2689961f.chunk.js.map",
+    "runtime-main.js": "/mbta_departure_board/static/js/runtime-main.91ca8833.js",
+    "runtime-main.js.map": "/mbta_departure_board/static/js/runtime-main.91ca8833.js.map",
+    "static/js/2.98250682.chunk.js": "/mbta_departure_board/static/js/2.98250682.chunk.js",
+    "static/js/2.98250682.chunk.js.map": "/mbta_departure_board/static/js/2.98250682.chunk.js.map",
+    "index.html": "/mbta_departure_board/index.html",
+    "static/css/main.e1ff73a1.chunk.css.map": "/mbta_departure_board/static/css/main.e1ff73a1.chunk.css.map",
+    "static/js/2.98250682.chunk.js.LICENSE.txt": "/mbta_departure_board/static/js/2.98250682.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91ca8833.js",
+    "static/js/2.98250682.chunk.js",
+    "static/css/main.e1ff73a1.chunk.css",
+    "static/js/main.2689961f.chunk.js"
+  ]
+}
