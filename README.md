@@ -20,12 +20,11 @@ My website is hosted on Github Pages: [MBTA Departure Board](https://rcolon100.g
 
 ## Contributors
 
-Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
+Thanks goes to these wonderful people:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-|[<img src="https://avatars2.githubusercontent.com/u/19364468?v=4" width="100px;"/><br /><sub><b>Reynolds A Colon</b></sub>](https://www.github.com/rcolon100)<br /> |
-| :---: | :---: | :---: | :---: |
+[<img src="https://avatars2.githubusercontent.com/u/19364468?v=4" width="100px;"/><br /><sub><b>Reynolds A Colon</b></sub>](https://www.github.com/rcolon100)<br />
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
